@@ -57,10 +57,4 @@ clearButton = Button(root, text='Clear', command=clearEntry)
 startButton.pack(side=BOTTOM, fill=BOTH)
 clearButton.pack(side=BOTTOM, fill=BOTH)
 
-
-
-
-
-
-
 root.mainloop()
