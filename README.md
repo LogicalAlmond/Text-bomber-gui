@@ -3,7 +3,7 @@ A small simple text bombing program for MacOS to prank your friends.
 
 Find CLI version at: https://github.com/LogicalAlmond/Text-bomber-cli
 
-Requires python. Get latest here:
+Requires python (3.7.x recommended). Get here:
 https://www.python.org/downloads/
 
 First open up the iMessage thread you want to bomb, then run.
