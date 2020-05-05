@@ -24,4 +24,4 @@ Python3: `pip3 install requirements.txt`
 6. Run `python main.py` or `python3 main.py` depending on your version
 
 ## Update:
-To update use `git pull https://github.com/LogicaAlmond/Text-bomber-gui
+To update use `git pull https://github.com/LogicaAlmond/Text-bomber-gui`
